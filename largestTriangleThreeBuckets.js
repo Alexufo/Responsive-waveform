@@ -1,4 +1,3 @@
-MIT License
 /*
  * The MIT License
 
