@@ -9,7 +9,7 @@ A JavaScript function that helpes resample linear arrays. Modifyied version for 
 ## Demos
 
 * Responsive Waveform : [https://codepen.io/Alexufo/pen/NNGKGM](https://codepen.io/Alexufo/pen/NNGKGM)
-* Example of a player with JSON waveform: [jsfiddle.net/5tPRw](http://jsfiddle.net/5tPRw/)
+* Example of a player with JSON waveform: [https://codepen.io/Alexufo/pen/rrjBVx](https://codepen.io/Alexufo/pen/rrjBVx)
  
 ## License
 
