@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html >
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body {
+  margin:0;
+  background: #135058;
+  background: linear-gradient(to top, #c1c180, #135058);
+}
+h3 {
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    font-family: SANS-SERIF;
+}
+.c-wrapper {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+#myCanvas{ 
+  max-width:900px;
+  height:60px;
+} 
+</style>
+</head>
+<body>
+<div class="c-wrapper">
+   <h3>resize window</h3>
+   <canvas id="myCanvas"></canvas>
+</div>
+
+<script src="./largestTriangleThreeBuckets.js"></script>
+<script src="./script.js"></script>
+
+</body>
+</html>
